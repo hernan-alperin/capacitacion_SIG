@@ -48,4 +48,7 @@ Año 2022
 # Docentes:
 - Manuel Retamozo
 - Hernán Alperin
+- Vero Heredia
+- Silvina Bouzas
+- 
 
