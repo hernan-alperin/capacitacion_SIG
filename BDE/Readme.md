@@ -1,4 +1,4 @@
-# Curso de Capacitación en Bases de Datos Espaciales
+# Taller de Capacitación en Bases de Datos Espaciales
 
 
 Año 2022
