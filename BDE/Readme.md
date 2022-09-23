@@ -1,31 +1,23 @@
 # Curso de Capacitación en Bases de Datos Espaciales
 
-Año 2012
 
-## Clase 0
-
-- Instalación de gvSIG.
-- Instalación de PostgreSQL.
-- Instalación de PGAdmin.
-- Instalación de ODBC para postgres.
+Año 2022
 
 ## Clase 1
 - Introducción a las bases de datos.
 - Bases de datos relacionales.
 - Motores de bases de datos: *PostgreSQL*
 - Elementos de una base de datos: *Esquemas, tablas, campos, registros.*
-- Migración de datos alfanuméricos: *PGAdmin, DOS y desde Access.*
+- Migración de datos: *QGIS*
 - SQL: comandos de selección.
 - Claves primarias.
-- Visualización de información geográfica de la base desde *gvSIG* y otros SIG de escritorio.
+- Visualización de información geográfica de la base desde *QSIG*.
 
 
 ## Clase 2
 - Extensión PostGIS.
 - Tablas de PostGIS: sistemas de referencia y columnas geométricas. 
 - Tipos de geometrías.
-- Normativas de Open Geospatial Consortium (OGC).
-- Migración de datos espaciales: desde GVSIG y desde DOS.
 - SQL: comandos de actualización. Insertar, modificar y eliminar datos de una tabla.
 - SQL espacial: consulta de datos espaciales: distancia, superficie, longitud, SRID, reproyectar, tipo de geometría y cantidad de vértices.
 
@@ -50,24 +42,10 @@ Año 2012
 - Geocodificación de domicilios.
 - Geocodificación en base a datos alfanuméricos
 
-## Clase 6
-- Administración de la base de datos espaciales. *Roles, grupos, privilegios.*
-- Actualización de los datos.
-- Gestión de proyectos de gvSIG con PostGIS.
-- Las bases de datos espaciales y las Infraestructuras de Datos Espaciales IDE.
-
-## Clase 7
+# Clase 6
 - Trabajo final de integración.
 
 # Docentes:
 - Manuel Retamozo
-- Horacio Castellaro
+- Hernán Alperin
 
-# Tutores:
-- Mercedes Mugni
-- Samanta Aleso
-- Luis Piccinali
-- Juan Oldani
-- Sebastián Boo
-- Federico Sánchez
-- Paulo Frontera
