@@ -50,5 +50,5 @@ Año 2022
 - Hernán Alperin
 - Vero Heredia
 - Silvina Bouzas
-- 
+
 
